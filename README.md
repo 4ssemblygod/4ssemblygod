@@ -1,37 +1,46 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1844x350_line.png" width="100%" alt="banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDhycHQyOHJ5Zm93NjN6bGx5YmZkMGFnZXJqdmxpazI2Y3ExbmlscSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GKXQdN3xNk7dK/giphy.gif" width="100%" alt="cyber-banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=4ssemblygod+@+localhost;System.Status+--+Online;Reverse+Engineering+%26+Malware+Analysis;Low+Level+Development" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnaWpxb3B4M3Y4MWh4ZzV5N3g1M3N5bXpxbWZ6bXp3OHRndDZpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yq5gG91kM4Yko/giphy.gif" width="500" alt="cyber"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=4ssemblygod+@+localhost;System.Status+--+Online;Reverse+Engineering+%26+Advanced+Exploitation;Low+Level+Development" alt="Typing SVG" />
 </p>
 
 ---
 
-🤖 System Check
-- 🔭 suan low level development ve x64 disassembly uzerine takiliyorum
-- ⚡ oyun guvenlik sistemleri, kernel driverlar ve anti-cheat bypass mimarileri ilgimi cekiyor
-- 🧠 bos zamanlarda reverse engineering antrenmanlari ve bazi donanim modifikasyonlari yapiyorum
-- ⚙️ gundelik olarak c++, assembly ve python kullaniyorum
+⚡ System Information
+- 🔭 Focusing heavily on low-level development, binary analysis, and x64 disassembly.
+- ⚡ Deeply interested in game security systems, kernel-level drivers, anti-cheat bypass mechanisms, and custom exploits.
+- 🧠 Reversing binaries, researching game mechanics, and experimenting with hardware/software performance modifications.
+- ⚙️ Day-to-day stack revolves around memory manipulation, code injection, and reverse engineering.
 
 ---
 
-🛠️ Environment & Tools
+🛠️ Professional Tech Stack & Languages
 
 <p align="left">
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Kernel-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/IDA_Pro-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows_Kernel-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +62,7 @@
 
 ---
 
-🔥 Top Projects
+🔥 Featured Projects
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=4ssemblygod&repo=4ssemblygod&theme=tokyonight" width="48%" />
