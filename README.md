@@ -64,5 +64,5 @@
 </p>
 
 <p align="right">
-  <img src="https://profile-counter.glitch.me/4ssemblygod/count.svg" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=4ssemblygod&color=9400D3&style=flat-square" alt="visitors" />
 </p>
